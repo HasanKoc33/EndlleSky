@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "1086158719618",
+    "firebase_url": "https://endlesky-89dd9.firebaseio.com",
+    "project_id": "endlesky-89dd9",
+    "storage_bucket": "endlesky-89dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086158719618:android:aa787eee4df5cb9a49829b",
+        "android_client_info": {
+          "package_name": "com.hasan.sonsuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086158719618-9clt2nno0hadjk1fsp72t56kpe7h4isf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtqEAbBEFSyVlE4xImVrloXRLfVPInKUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086158719618-9clt2nno0hadjk1fsp72t56kpe7h4isf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6139386909716103~4279305290"
+    }
+  ],
+  "configuration_version": "1"
+}
